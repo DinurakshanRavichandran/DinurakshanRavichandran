@@ -1,61 +1,80 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi 👋, I'm Dinurakshan Ravichandran</h1>
-<h3 align="center">Passionate coder with a focus on Python, Java, and machine learning, dedicated to solving real-world problems with innovative software solutions.</h3>
+<h3 align="center">🚀 Passionate Coder | 🧠 AI Enthusiast | 🌍 Innovator</h3>
 
-### 👤 More About Me:
-
-- 🔭 &nbsp; I’m currently studying at **Informatics Institute of Technology**, affiliated with **Robert Gordon University**.
-- 🌱 &nbsp; I’m currently learning **Python, Java, DSA, Machine Learning, and Data Science**.
-- 👨🏻‍💻 &nbsp; Most of my repositories are available on [GitHub](https://github.com/DinurakshanRavichandran).
-- 📩 &nbsp; How to reach me: dinurakshan.20232752@iit.ac.lk
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DinurakshanRavichandran&label=Profile%20Views&color=2&pretty=false" />
-</a>
-
-<p align="left"> 
-  <a href="https://github.com/DinurakshanRavichandran">
-    <img src="https://github-profile-trophy.vercel.app/?username=DinurakshanRavichandran" alt="Dinurakshan Ravichandran" />
-  </a>
+<p align="center">  
+  I love turning ideas into impactful solutions, harnessing the power of Python, Java, and machine learning to solve complex challenges. Always learning, always creating. ✨  
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🏷️ **About Me**
+- 🎓 **Education**: Currently pursuing my degree at **Informatics Institute of Technology**, affiliated with **Robert Gordon University**.  
+- 💻 **Focus Areas**: Python, Java, DSA, Machine Learning, and Data Science.  
+- 🔭 **Projects**: Check out my repositories on [GitHub](https://github.com/DinurakshanRavichandran).  
+- 📩 **Contact Me**: dinurakshan.20232752@iit.ac.lk  
+
+---
+
+### 🌐 **Connect With Me**
+<p align="center">
   <a href="https://www.linkedin.com/in/dinurakshan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dinurakshan LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dinurakshan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ **Languages and Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,angular&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,angular,git,github,vscode,mysql,figma&theme=dark&perline=8" />
   </a>
 </p>
 
 ---
 
-### ⚡ Catchphrase:
-> "Coding is my canvas, and every line is a brushstroke on the masterpiece of innovation."
+### ⚡ **Fun Fact**
+> "Coding is my superpower, and debugging is my detective work!"
 
 ---
 
-### 📊 Stats and Widgets:
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinurakshanRavichandran&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage" alt="GitHub Stats" />
+</p>
 
-![Dinurakshan's Stats](https://github-readme-stats.vercel.app/api?username=DinurakshanRavichandran&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
-
-![](https://github-contributor-stats.vercel.app/api?username=DinurakshanRavichandran&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DinurakshanRavichandran&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
 
 ---
 
-### 🚀 Upcoming Projects:
-- **Visio-Glance** (Private repository): An innovative project tackling visual insights for enhanced user experience.
+### 🚀 **Upcoming Projects**
+- **Visio-Glance** (Private Repository): Innovating visual insights for a better user experience.  
 
+---
 
+### 🌟 **Profile Highlights**
+<p align="center">
+  <a href="https://github.com/DinurakshanRavichandran">
+    <img src="https://github-profile-trophy.vercel.app/?username=DinurakshanRavichandran&theme=radical&no-bg=true&no-frame=true" alt="Profile Trophies" />
+  </a>
+</p>
 
+---
 
+### 🛤️ **GitHub Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DinurakshanRavichandran&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💡 **What I’m Learning**
+Currently focusing on enhancing my skills in:  
+- 🐍 Python  
+- ☕ Java  
+- 🔢 Data Structures & Algorithms  
+- 🤖 Machine Learning  
